@@ -10,6 +10,6 @@ BaselineOfGtoolkit4DataFrame >> baseline: spec [
 	spec
 		for: #common
 		do: [
-			spec baseline: 'DataFrame' with: [ spec repository: 'github://PolyMathOrg/DataFrame/' ].
+			spec baseline: 'DataFrame' with: [ spec repository: 'github://PolyMathOrg/DataFrame/src' ].
 			spec package: 'GToolkit4DataFrame' with: [ spec requires: #(DataFrame) ] ]
 ]
