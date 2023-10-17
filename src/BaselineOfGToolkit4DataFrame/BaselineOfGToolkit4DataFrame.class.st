@@ -1,6 +1,6 @@
 Class {
 	#name : #BaselineOfGToolkit4DataFrame,
-	#superclass : #Object,
+	#superclass : #BaselineOf,
 	#category : #BaselineOfGToolkit4DataFrame
 }
 
